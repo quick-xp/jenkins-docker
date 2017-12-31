@@ -1,6 +1,6 @@
 version: '2'
 services:
-  mysql:
+  jenkins:
     tty: true
     image: jenkins-ci-master
     ports:
